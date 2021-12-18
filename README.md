@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-## Bem vindo ao meu perfil do github
+## Welcome to my Github profile
 
-Meu nome é Lucas, sou QA 
+My name is Lucas, and I work with QA Enginner. 
 
-# Me siga nas redes sociais
+I work with test automation using ruby technologies
+
+This is my portfolio, with all projects and studies that i made
+
+# Follow me on social media
 
 <div>
   <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
