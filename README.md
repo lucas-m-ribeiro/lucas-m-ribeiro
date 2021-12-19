@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Welcome to my Github profile
 
@@ -9,7 +9,7 @@ I work with test automation using ruby technologies;
 This is my portfolio, with all projects and studies that i made;
 
 
-# Follow me on social media
+## Follow me on social media
 
 <div>
 <a href="https://instagram.com/_olucasmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
