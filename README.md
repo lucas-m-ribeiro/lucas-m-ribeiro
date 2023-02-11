@@ -2,11 +2,16 @@
 
 ## Welcome to my Github profile
 
-My name is Lucas, and Im QA Enginner;
+My name is Lucas and I am a QA Engineer.
 
-I work with test automation using ruby technologies;
+I hold a degree in Systems Analysis and I am pursuing a Master's degree in Software Engineering with a focus on quality and testing.
 
-This is my portfolio, with all projects and studies that i made;
+I work with automated testing using Ruby technologies.
+
+I have CTFL and CTFL-AT certifications.
+
+On my profile, you can find study and academic projects.
+
 
 
 ## Follow me on social media
