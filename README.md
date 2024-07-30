@@ -15,7 +15,7 @@ Follow me on Github to keep up with my personal study projects and contributions
 
 
 <p align="left">
-  <a href="(https://br.linkedin.com/in/lucas-m-ribeiro971216)" title="Linkedin">
+  <a href= https://br.linkedin.com/in/lucas-m-ribeiro971216 title="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <a href="lucasmonribeiro@gmail.com" title="Gmail">
