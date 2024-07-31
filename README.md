@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+## About me
+
 <p align="left"> 
-Hey guys
-my name is Lucas Ribeiro, I am an IT professional focused on software quality, programming and software development for testing.
+My name is Lucas Ribeiro, I am an IT professional focused on software quality, programming and software development for testing.
 
 I have a degree in systems analysis and development, and also a postgraduate degree in software engineering.
 
@@ -10,11 +11,20 @@ I also have two international certifications focused on software testing: CTFL (
 
 I currently work as an SDET at Neon payments.
 
-Follow me on Github to keep up with my personal study projects and contributions.
+Follow me to keep up with my personal study projects and contributions.
 </p>
+
+## My interests
+- Software development
+- Test automation
+- Fundamentals of software engineering
+- Create efficient solutions to solve real problems.
+
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-m-ribeiro&hide=TeX&layout=compact)
 
+## Contact
 
 <p align="left">
   <a href= https://br.linkedin.com/in/lucas-m-ribeiro971216 title="Linkedin">
