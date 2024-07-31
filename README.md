@@ -13,6 +13,8 @@ I currently work as an SDET at Neon payments.
 Follow me on Github to keep up with my personal study projects and contributions.
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-m-ribeiro&hide=TeX&layout=compact)
+
 
 <p align="left">
   <a href= https://br.linkedin.com/in/lucas-m-ribeiro971216 title="Linkedin">
