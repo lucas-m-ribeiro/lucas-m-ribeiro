@@ -3,11 +3,12 @@
 ## About me
 
 <p align="left"> 
-My name is Lucas Ribeiro, I am an IT professional focused on software quality, programming and software development for testing.
+My name is Lucas Ribeiro, I am a Software Development Engineer in Test (SDET) with over 5 years of experience designing and implementing test automation solutions across Mobile, API, Web, and Backend applications. I focus on building scalable, maintainable, and high-coverage test frameworks that accelerate delivery and ensure product reliability.
 
-I have a degree in systems analysis and development, and also a postgraduate degree in software engineering.
-
-I also have two international certifications focused on software testing: CTFL (Certified Tester Foundation Level), and CTFL-AT (Certified Tester Foundation Level - Agile Tester). Both issued by the international body ISTQB (International Software Testing Qualifications Board).
+I also have three international certifications focused on software testing: 
+- CTFL (Certified Tester Foundation Level)
+- CTFL-AT (Certified Tester Foundation Level - Agile Tester).
+- CTAL-TAE (Certified Tester Advanced Level - Test Automation Engineer)
 
 I currently work as an SDET at Neon payments.
 
